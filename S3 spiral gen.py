@@ -40,7 +40,7 @@ def datagen(t, pmax, step):
         title='S3 Spiral Plot'
     )
     fig = go.Figure(data=Data, layout=Layout)
-    py.plot(fig, filename=f)
+    py.plot(fig, filename='')
 
 
 
