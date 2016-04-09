@@ -1,6 +1,6 @@
 import plotly.plotly as py
 
-py.sign_in('whitequill','9sw1pbyxdu')
+py.sign_in('DemoAccount','lr1c37zw81')
 
 import plotly.graph_objs as go
 from math import sin,cos,sqrt,e
