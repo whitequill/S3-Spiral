@@ -10,7 +10,6 @@ s0 = []
 s1 = []
 s2 = []
 
-f = str(filename)
 def datagen(t, pmax, step):
     while (t < pmax):
          S1 = (2/3)*cos((sqrt(3)*t)/2)*e**(t/2) + 1/(3*e**t)
